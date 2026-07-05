@@ -6,6 +6,10 @@
 * **Data Analysis/Retrieval :** Python (Pandas), SQL, SAS, Microsoft Excel
 
 ## 🗣️ Languages
+* **English:** Fluent/Native English
+* **Cantonese:** Proficient in spoken Cantonese
+* **Japanese:** Conversational Japanese
 
+## 📊 Featured Projects
 
-
+### 1. 🎬 Movie Database
