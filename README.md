@@ -26,10 +26,9 @@
 
 ### 3. 🏡 Property Image Classification Model & AI Solution Research
 * **Tech Stack:** Python, Microsoft Word
-* **Description:** Proposed image classification model to optimize the review and upload prcoess of property images for a real estate agency case study (provided by academic institution). Researched ML lifecycle from engineering and training to model evaluation and planned project using CRISP-ML framework from requirements to model deployment process. Note: the Python notebook was partially completed by the institution as the main purpose of the assessment was to understand the ML lifecycle.
-* **Impact:** Translated abstract business problems into concrete ML objectives, achieving **70% model accuracy** through systematic performance optimization.
+* **Description:** Proposed image classification model to optimize the review and upload prcoess of property images for a real estate agency case study (provided by academic institution). Researched ML lifecycle from engineering and training to model evaluation and planned project using CRISP-ML framework from requirements to model deployment process. (Note: the Python notebook was partially completed by the institution as the main purpose of the assessment was to understand and research the ML lifecycle)
+* **Impact:** Translated abstract business problems into ML objectives. The classification model achieved **70% accuracy** after model training and performance optimization techniques was suggested and researched in written report to improve model evaluation metrics.
 * **🔗 [View Project Repository](./property-image-classification)**
-
   
 ## 📫 Contact
 **Email:** [michael.mou.hcmm@gmail.com](mailto:michael.mou.hcmm@gmail.com)
