@@ -1,4 +1,4 @@
-# I'm Michael, a detail-oriented recent Master’s graduate in Business Analytics seeking Data/Business Analyst roles
+# I'm Michael, a detail-oriented recent Master’s graduate in Business Analytics seeking a role in Data/Business Analysis
 
 ## 🛠️ Technical Skills
 * **Data Manipulation:** Python (Pandas), SQL, SAS Data Processing
