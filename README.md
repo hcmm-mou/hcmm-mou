@@ -22,7 +22,7 @@
 * **Tech Stack:** Python (Pandas), Tableau, Excel, Microsoft Word
 * **Description:** Cleaned and transformed complex financial dataset using Pandas & Excel to uncover key historical patterns and to analyze financial performance of organization using KPI metrics.
 * **Result:** Feature engineered new variable such as Gross Profit Margin to deepen data insights and delivered an interactive dashboard that translates data insights for both technical and non-technical stakeholders using data visualization techniques. In addition, analyzed financial performance and communicated  performance insights using the dashboard through business report.
-* **🔗 [View Dashboard & Report](./movie-database-project)**
+* **🔗 [View Dashboard & Report](https://github.com/hcmm-mou/financial-performance-dashboard)**
 
 ### 3. 🏡 Property Image Classification Model & AI Solution Research
 * **Tech Stack:** Python, Microsoft Word
