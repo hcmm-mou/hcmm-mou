@@ -12,7 +12,7 @@
 
 ## 📊 Featured Projects
 
-### 1. 🎬 Movie Database & Engagement Dashboard
+### 1. 🎬 Movie Database & Behavioral Dashboard
 * **Tech Stack:** MySQL, ERD Modeling
 * **Description:** Designed a relational database from scratch using Entity-Relationship Diagrams (ERDs) and optimized SQL scripts to retrieve insights about behavioural trends and patterns in media consumption.
 * **Result:** Maintained a clean schema to track and understand personal engagement and behavioral metrics, utilizing analytical query statements for efficient data retrieval in relation to behavioural questions (most watched actor, favourite genre, favourite director). And developed Grafana dashboard to visualize engagement and behavioral metrics using a range of visualization techniques.
