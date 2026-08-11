@@ -17,7 +17,7 @@
 * **Description:** Designed a relational database from scratch using Entity-Relationship Diagrams (ERDs) and optimized SQL scripts to retrieve insights about behavioural trends and patterns in media consumption.
 * **Result:** Maintained a clean schema to track and understand personal engagement and behavioral metrics, utilizing analytical query statements for efficient data retrieval in relation to behavioural questions (most watched actor, favourite genre, favourite director). And developed Grafana dashboard to visualize engagement and behavioral metrics using a range of visualization techniques.
 * **🔗 [View Database Sample & Queries](https://github.com/hcmm-mou/movie-database)**
-* **🔗 [Movie Dashboard](https://snapshots.raintank.io/dashboard/snapshot/5vLdUiu1otvseKtGLi3FG46XOyCOB0sK)**
+* **🔗 [Movie Dashboard](https://snapshots.raintank.io/dashboard/snapshot/fJGgu0IyxgDvreM5ny54LpRhGiMEoIky)**
 
 ### 2. 📉 Financial Performance Dashboard
 * **Tech Stack:** Python (Pandas), Tableau, Excel, Microsoft Word
